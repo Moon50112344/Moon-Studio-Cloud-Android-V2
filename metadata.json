@@ -1,0 +1,6 @@
+{
+  "name": "Moon Studio Cloud Phone",
+  "description": "Nền tảng Cloud Android mang thương hiệu Moon Studio, tích hợp dịch vụ Emutize cung cấp thiết bị Android thực sự trên đám mây.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
